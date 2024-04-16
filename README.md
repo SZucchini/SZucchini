@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+## Github Stats
+
+<a href="https://github.com/abe-tk/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SZucchini&theme=dark&show_icons=true&rank_icon=github">
+    <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=SZucchini&show_icons=true&rank_icon=github">
+  </picture>
+</a>
+<a href="https://github.com/abe-tk/convoychat">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SZucchini&theme=dark&layout=compact">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SZucchini&layout=compact">
+  </picture>
+</a>
+
 <!--
 **SZucchini/SZucchini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
