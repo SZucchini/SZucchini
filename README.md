@@ -4,14 +4,14 @@
 
 <a href="https://github.com/SZucchini/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SZucchini&theme=dark&show_icons=true&rank_icon=github">
-    <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=SZucchini&show_icons=true&rank_icon=github">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SZucchini&theme=dark&show_icons=true&rank_icon=github&count_private=true">
+    <img height=180 align="center">
   </picture>
 </a>
 <a href="https://github.com/SZucchini/convoychat">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SZucchini&theme=dark&layout=compact">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SZucchini&layout=compact">
+    <img height=180 align="center">
   </picture>
 </a>
 
