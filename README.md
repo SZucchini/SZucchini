@@ -4,7 +4,7 @@
 
 <a href="">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-private-g8hq.vercel.app/api?username=SZucchini&theme=dark&show_icons=true&rank_icon=github&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-private-g8hq.vercel.app/api?username=SZucchini&theme=dark&show_icons=true">
     <img height=180 align="center">
   </picture>
 </a>
