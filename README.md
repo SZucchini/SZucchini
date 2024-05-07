@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://github.com/SZucchini/SZucchini/">
+  <img src="https://komarev.com/ghpvc/?username=SZucchini" alt="SZucchini" />
+</a>
+
 ## Github Stats
 
 <a href="">
