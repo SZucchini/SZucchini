@@ -2,15 +2,15 @@
 
 ## Github Stats
 
-<a href="https://github.com/SZucchini/github-readme-stats">
+<a href="">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SZucchini&theme=dark&show_icons=true&rank_icon=github&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-private-g8hq.vercel.app/api?username=SZucchini&theme=dark&show_icons=true&rank_icon=github&count_private=true">
     <img height=180 align="center">
   </picture>
 </a>
-<a href="https://github.com/SZucchini/convoychat">
+<a href="">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SZucchini&theme=dark&layout=compact">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-private-g8hq.vercel.app/api/top-langs/?username=SZucchini&theme=dark&layout=compact">
     <img height=180 align="center">
   </picture>
 </a>
