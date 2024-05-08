@@ -10,7 +10,7 @@
 </a>
 <a href="">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-private-g8hq.vercel.app/api/top-langs/?username=SZucchini&theme=algolia&layout=compact&exclude_repo=github-readme-stats-private,B4Lecture-2021,tf-reid">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-private-g8hq.vercel.app/api/top-langs/?username=SZucchini&theme=algolia&layout=compact&exclude_repo=github-readme-stats-private,B4Lecture-2021,tf-reid,racewalk-aijudge">
     <img height=180 align="center">
   </picture>
 </a>
