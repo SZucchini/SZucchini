@@ -10,7 +10,7 @@
 </a>
 <a href="">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-private-g8hq.vercel.app/api/top-langs/?username=SZucchini&theme=algolia&layout=compact&hide=javascript,jupyternotebook">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-private-g8hq.vercel.app/api/top-langs/?username=SZucchini&theme=algolia&layout=compact&hide=jupyter%20notebook">
     <img height=180 align="center">
   </picture>
 </a>
